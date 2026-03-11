@@ -3,5 +3,5 @@
     "filename": "elisa_kotiakku_cards.js",
     "render_readme": true,
     "homeassistant": "2026.2.1",
-    "content_in_root": false
+    "content_in_root": true
 }
