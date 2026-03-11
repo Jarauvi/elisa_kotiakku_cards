@@ -9,7 +9,7 @@
 
   [![Version](https://img.shields.io/github/v/tag/Jarauvi/elisa_kotiakku_cards?label=Version)](https://github.com/Jarauvi/elisa_kotiakku_cards/tags)
 
-  **Swag for Elisa Kotiakku integration!**
+  **Swag for [Elisa Kotiakku integration](https://github.com/Jarauvi/elisa_kotiakku)!**
 </div>
 
 ---
