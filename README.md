@@ -7,7 +7,7 @@
   [![HACS](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://hacs.xyz/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-  [![Version](https://img.shields.io/github/v/tag/Jarauvi/elisa_kotiakku_cards)]
+  [![Version](https://img.shields.io/github/v/tag/Jarauvi/elisa_kotiakku_cards)](https://github.com/Jarauvi/elisa_kotiakku_cards/tags)
 
   **Swag for Elisa Kotiakku integration!**
 </div>
