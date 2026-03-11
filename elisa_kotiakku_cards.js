@@ -28,8 +28,8 @@ const TRANSLATIONS = {
     cards: {
       elisa_kotiakku_diagnostics: {
         battery_cycle_count: "cycles",
-        battery_charging: "Charging",
-        battery_discharging: "Discharging"
+        charging: "Charging",
+        discharging: "Discharging"
       }
     },
     editors: {
@@ -341,7 +341,7 @@ static get styles() {
                 <path d="m110.34 81.579-2.0487-1.2242-0.0808 0.27515 0.1281 0.48224 0.34913 0.34539 0.30682 0.11099z"/>
               </g>
               <rect id="battery_gauge_bg" x="92.95" y="109.91" width="8.5356" height="82.335" stroke="#000" stroke-width=".61178"/>
-              <path id="charging_animation" display="${idle_state}" style="animation:${charging_animation}" d="m97.217 109.91v-6.2126l5.7314-5.3103h108.84" fill="none" stroke="url(#linearGradient82)" stroke-dasharray="1.22605, 1.22605" stroke-linejoin="round" stroke-width="2.4521"/>
+              <path id="charging_animation" display="${idle_state}" style="animation:${charging_animation}" d="m 97.217447,109.91367 v -6.21264 c 0.301217,-3.55817 2.211698,-5.328273 5.731443,-5.310303 h 108.83846" fill="none" stroke="url(#linearGradient82)" stroke-dasharray="1.22605, 1.22605" stroke-linejoin="round" stroke-width="2.4521"/>
               <rect id="battery_gauge" x="92.95" y="${yOffset}" width="8.5357" height="${fillHeight}" fill="url(#linearGradient34)" stroke="#000" stroke-width=".61178"/>
               <text id="state_of_charge_percent" x="98.032837" y="200.68573" fill="#ffffff" font-size="6.4746px" stroke-width=".16857" text-align="center" text-anchor="middle" xml:space="preserve">${state_of_charge_percent}</text>
               <g transform="matrix(6.1178 0 0 6.1178 -501.18 -388.83)">
