@@ -1,6 +1,6 @@
 {
     "name": "Elisa Kotiakku cards",
-    "filename": "elisa_kotiakku_card.js",
+    "filename": "dist/elisa_kotiakku_cards.js",
     "render_readme": true,
     "homeassistant": "2026.2.1",
     "content_in_root": false
